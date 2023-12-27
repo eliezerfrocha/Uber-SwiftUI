@@ -80,7 +80,7 @@
 				9A4047172B3BC5B200AC11FA /* UberSwiftUITutorialApp.swift */,
 			);
 			name = App;
-			path = "New Group1/App";
+			path = "App";
 			sourceTree = "<group>";
 		};
 		9A40472A2B3BC65A00AC11FA /* Core */ = {
