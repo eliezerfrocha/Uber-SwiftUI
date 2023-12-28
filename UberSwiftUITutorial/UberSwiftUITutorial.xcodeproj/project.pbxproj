@@ -17,6 +17,7 @@
 		9A40473E2B3BEB5A00AC11FA /* MapViewActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A40473D2B3BEB5A00AC11FA /* MapViewActionButton.swift */; };
 		9A4047402B3C5CD900AC11FA /* LocationSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A40473F2B3C5CD900AC11FA /* LocationSearchView.swift */; };
 		9A4047422B3C64D900AC11FA /* LocationSearchResultsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4047412B3C64D900AC11FA /* LocationSearchResultsCell.swift */; };
+		9A4047442B3C824D00AC11FA /* LocationSearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4047432B3C824D00AC11FA /* LocationSearchViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		9A40473D2B3BEB5A00AC11FA /* MapViewActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewActionButton.swift; sourceTree = "<group>"; };
 		9A40473F2B3C5CD900AC11FA /* LocationSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchView.swift; sourceTree = "<group>"; };
 		9A4047412B3C64D900AC11FA /* LocationSearchResultsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchResultsCell.swift; sourceTree = "<group>"; };
+		9A4047432B3C824D00AC11FA /* LocationSearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +171,7 @@
 		9A40473A2B3BE72500AC11FA /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				9A4047432B3C824D00AC11FA /* LocationSearchViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A4047442B3C824D00AC11FA /* LocationSearchViewModel.swift in Sources */,
 				9A4047402B3C5CD900AC11FA /* LocationSearchView.swift in Sources */,
 				9A4047352B3BCBD100AC11FA /* LocationManager.swift in Sources */,
 				9A40473E2B3BEB5A00AC11FA /* MapViewActionButton.swift in Sources */,
